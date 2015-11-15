@@ -1,0 +1,6 @@
+
+
+Min_num = int(raw_input("Enter the min number on the dice"))
+Max_num = int(raw_input("Enter the Max number on the dice"))
+
+Print Min_num, Max_num
